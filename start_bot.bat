@@ -1,0 +1,2 @@
+node alabammy.js
+PAUSE
